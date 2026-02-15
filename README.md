@@ -1,10 +1,10 @@
 # Day 2 – Data Visualization and Storytelling
 
-Objective
+## Objective
 
 To create meaningful visualizations that convey business insights using Power BI.
 
-Dataset
+## Dataset
 
 SuperStoreOrders.csv
 
@@ -16,7 +16,7 @@ Total Profit: $1.47M
 
 Total Quantity Sold: 178K
 
-Key Insights
+## Key Insights
 
 Technology is the highest revenue-generating category.
 
@@ -26,7 +26,7 @@ Sales show consistent growth over time.
 
 The top 5 regions contribute the majority of total sales.
 
-Tools Used
+## Tools Used
 
 Power BI Desktop
 
